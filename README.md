@@ -30,7 +30,7 @@
 ## Reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://instagram.com/carlosklaro))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlosklaro) 
-[![Gmail](https://img.shields.io/badge/-gabrielleribeiro2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:carlosklaro@gmail.com)](mailto:carlosklaro@gmail.com)
+[![Gmail](https://img.shields.io/badge/-carlosklaro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:carlosklaro@gmail.com)](mailto:carlosklaro@gmail.com)
   
   
 ![Snake animation](https://github.com/Karlosclaro/Karlosclaro/blob/output/github-contribution-grid-snake.svg)
