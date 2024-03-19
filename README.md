@@ -33,7 +33,7 @@
 [![Gmail](https://img.shields.io/badge/-carlosklaro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:carlosklaro@gmail.com)](mailto:carlosklaro@gmail.com)
   
   
-![Snake animation](https://github.com/Karlosclaro/Karlosclaro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](./img/github-contribution-grid-snake-dark.svg)
   
 <!--
 **Karlosclaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
